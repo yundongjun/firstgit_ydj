@@ -1,0 +1,42 @@
+.badge {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.badge_dat {
+  background-color: tomato;
+  width: 10px;
+  height: 10px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  left: 35px;
+  bottom: 25px;
+}
+
+.screen-header__link {
+  position: relative;
+  margin-left: 26px;
+  box-sizing: border-box;
+}
+
+.header_badge_dat {
+  background-color: tomato;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: -3px;
+  bottom: 20px;
+  border-radius: 5px;
+}
